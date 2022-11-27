@@ -20,6 +20,8 @@ type Car = {
   model: CarModel;
 };
 
+
+
 const carYear: CarYear = 2001;
 const carType: CarType = "Toyota";
 const carModel: CarModel = "Corolla";
@@ -62,5 +64,3 @@ const coloredRectangle: ColoredRectangle = {
   width: 50,
   color: "red",
 };
-
-
